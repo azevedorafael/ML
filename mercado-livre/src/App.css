@@ -1,0 +1,25 @@
+.app {
+  text-align: left;
+}
+
+.app-logo {
+  padding-left: 200px;
+  padding-right: 25px;
+}
+
+.app-header {
+  background-color: #FFE600;
+  height: 35px;
+  padding: 10px 200px 10px 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.app-input {
+  flex-grow: 1;
+}
+
+.app-inputBtn {
+  background: url('./ic_Search.png') no-repeat;
+  width: 3%;
+}
